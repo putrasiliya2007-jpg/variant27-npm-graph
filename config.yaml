@@ -1,0 +1,8 @@
+# Режим test использует файл data/test_graph.json.
+# Для реального npm-пакета укажите URL npm registry: https://registry.npmjs.org/ИМЯ_ПАКЕТА
+package_name: E
+repository_url: ""
+test_repository_file: data/test_graph.json
+test_mode: true
+max_depth: 3
+show_reverse: false
